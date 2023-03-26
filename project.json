@@ -1,3 +1,6 @@
-{
-    "webpack-react18": "react-webpack"
-}
+[
+    {
+        "value": "webpack-react18",
+        "key": "react-webpack"
+    }
+]
