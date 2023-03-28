@@ -1,6 +1,3 @@
 [
-    {
-        "value": "webpack-react18",
-        "key": "react-webpack"
-    }
+    "react-webpack"
 ]
